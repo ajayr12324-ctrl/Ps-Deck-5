@@ -1,0 +1,6 @@
+{
+  "name": "PS5 Launcher",
+  "description": "PlayStation 5 style home screen, game hub, and app launcher with dynamic backdrops, activity cards, and installed app quick launch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
